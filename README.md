@@ -160,5 +160,5 @@ OS / File Handling
 
  👩‍🎓Author
 
- ### Weather Analyzer created by [Varsha Pal]
+ ### Weather Data Analyzer created by [Varsha Pal]
 Feel free to modify, improve, or extend!
