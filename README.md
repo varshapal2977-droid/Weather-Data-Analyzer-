@@ -1,5 +1,6 @@
 # Weather-Data-Analyzer-
-<img width="674" height="380" alt="Screenshot 2025-12-03 203438" src="https://github.com/user-attachments/assets/67e2d8ac-1ac8-4647-a9c1-893dc9b0a463" />
+<img width="491" height="289" alt="2025-12-03" src="https://github.com/user-attachments/assets/220a8f15-feee-444b-8c78-cc6a6cb066c1" />
+
 🌦️ Weather Analyzer — Python Weather Data Analysis Tool
 
 # A complete weather-data analysis pipeline that:
