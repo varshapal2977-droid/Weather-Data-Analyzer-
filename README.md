@@ -13,7 +13,7 @@
  Exports a cleaned dataset
  Creates an auto-generated summary report
 
-# Perfect for data analysis, projects, or school assignments.
+
 
  👉👉👉Features
  1. Intelligent CSV Loader
